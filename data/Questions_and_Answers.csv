@@ -1,5 +1,8 @@
 Questions,Answers
-What city has the most properties?,"City with most properties: ('Chicago                     ', 241)"
-How many property names start with the letter 'H',Properties starting with 'H': 801
-What % of the properties in the property category is 'Insured-Unsubsidized',Percentage of 'Insured-Unsubsidized': 68.70%
-How many unique property IDs are there in this data set,Unique property IDs: 16523
+What city has the most properties?,"City with most properties: ('Jacksonville                ', 3)"
+How many property names start with the letter 'H',Properties starting with 'H': 3
+What % of the properties in the property category is 'Insured-Unsubsidized',Percentage of 'Insured-Unsubsidized': 100.00%
+How many unique property IDs are there in this data set,Unique property IDs: 88
+What were the three largest refinaces?,"Three largest refinances: [('Capital Health System', 755874500), ('UNIVERSITY OF NEW MEXICO HOSPITAL', 320000000), (""ST. LUKE'S ROOSEVELT HOSPITAL"", 319555000)]"
+Does the size of a refinanace correlate with the capacity of a multi family ?,"Refinance size and multifamily capacity correlation: [(None, 36928028.652173914), ('Large', 11553500.0), ('High-Medium', 3567451.4), ('Low-Medium', 1672000.0)]"
+What are distnict categories of finacing present in the data and what do they mean?,"Distinct financing categories: [('Insured-Unsubsidized',)]"
